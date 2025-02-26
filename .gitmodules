@@ -25,3 +25,6 @@
 [submodule "cev-godot-sim"]
 	path = cev-godot-sim
 	url = git@github.com:cornellev/cev-godot-sim.git
+[submodule "cev/cev-godot-sim"]
+	path = cev/cev-godot-sim
+	url = git@github.com:cornellev/cev-godot-sim.git

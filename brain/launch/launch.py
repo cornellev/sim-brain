@@ -22,5 +22,12 @@ def launch(package, file, launch_folder="launch", arguments={}):
 
 def generate_launch_description():
     return LaunchDescription(
-        []
+        [
+            Node(
+                package="cev_planner_ros2",
+                executable="planner_node",
+                name="cev_planner_ros2_node",
+                output="screen",
+            ),
+        ]
     )
