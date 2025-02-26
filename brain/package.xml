@@ -14,6 +14,8 @@
 
   <!--INTERNAL-->
   <depend>cev_msgs</depend>
+  <depend>cev_planner_ros2</depend>
+  <depend>sim_drive</depend>
 
   <export>
     <build_type>ament_cmake</build_type>
