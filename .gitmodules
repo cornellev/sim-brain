@@ -22,3 +22,6 @@
 [submodule "cev/cev_trajectory_follower_ros2"]
 	path = cev/cev_trajectory_follower_ros2
 	url = git@github.com:cornellev/cev_trajectory_follower_ros2.git
+[submodule "cev-godot-sim"]
+	path = cev-godot-sim
+	url = git@github.com:cornellev/cev-godot-sim.git
